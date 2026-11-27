@@ -1,4 +1,4 @@
-# Hi, I'm Maatheshwarwar B 👋
+# Hi, I'm Maatheshwar B 👋
 
 🎓 **AI & DS Student | Saveetha Engineering College | Chennai, India**
 
