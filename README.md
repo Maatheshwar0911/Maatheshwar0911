@@ -49,7 +49,7 @@ I'm a student developer interested in building practical software projects and i
 
 ## Connect
 - GitHub: [@Maatheshwar0911](https://github.com/Maatheshwar0911)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: [Maatheshwar B](https://www.linkedin.com/in/maatheshwar-b-17ab80379)
 
 ---
 *I’m continuously learning, building, and improving one project at a time.*
